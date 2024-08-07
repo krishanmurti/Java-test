@@ -4,6 +4,7 @@ public class p2 {
         System.out.println("hi");
         System.out.println("how are you");
         System.out.println("had a dinner");
+        System.out.println("good night");
     }
 
 }
